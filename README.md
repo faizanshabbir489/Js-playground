@@ -1,7 +1,7 @@
 # Js-playground
 Code Repo of Java Script Practice 
 
-JS-Learning-Repo/
+```JS-Learning-Repo/
 ├── README.md                      # Main overview with Table of Contents
 ├── 01_fundamentals/
 │   ├── README.md                  # Overview of basic JS concepts
@@ -53,3 +53,4 @@ JS-Learning-Repo/
         ├── index.html
         ├── styles.css
         └── todo.js
+```
