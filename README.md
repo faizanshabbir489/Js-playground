@@ -11,7 +11,6 @@ Code Repo of Java Script Practice
 |   ├── Control_flow.js
 │   ├── loops.js
 │   ├── functions.js
-│   └── conditionals.js
 ├── 02_intermediate/
 │   ├── README.md                  # Overview of intermediate topics
 │   ├── destructuring.js
