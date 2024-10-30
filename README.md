@@ -1,2 +1,2 @@
 # Js-playground
-tHIS IS THE CHANGE
+Code Repo of Java Script Practice 
