@@ -11,3 +11,4 @@ let height = 20;
 
 // "const" is also block-scoped, but it cannot be reassigned or redeclared in the same scope.
 const li = 30;
+//Variables created without a declaration keyword (var, let, or const) are always global, even if they are created inside a function.
